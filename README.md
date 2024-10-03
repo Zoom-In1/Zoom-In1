@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Min Woo Joo, Dreaming of a challenging developer ⚡</h1>
-<h3 align="left">Let's make the fantasy come true🦄</h3>
+<h3 align="center">-Let's make the fantasy come true🦄-</h3>
 
 
 - 👨‍💻 All of my projects are available at https://www.notion.so/7662bec553b44ea4a41339f2cf23f0fc?pvs=4
